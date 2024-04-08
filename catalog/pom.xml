@@ -36,10 +36,13 @@
         </dependency>
         <dependency>
             <groupId>io.quarkus</groupId>
+<<<<<<< HEAD
             <artifactId>quarkus-resteasy</artifactId>
         </dependency>
         <dependency>
             <groupId>io.quarkus</groupId>
+=======
+>>>>>>> 9a9607e2ee28bc0c1e93eba3d6988de1c91451b4
             <artifactId>quarkus-resteasy-jackson</artifactId>
         </dependency>
         <dependency>
@@ -48,6 +51,13 @@
         </dependency>
         <dependency>
             <groupId>io.quarkus</groupId>
+<<<<<<< HEAD
+=======
+            <artifactId>quarkus-resteasy</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.quarkus</groupId>
+>>>>>>> 9a9607e2ee28bc0c1e93eba3d6988de1c91451b4
             <artifactId>quarkus-junit5</artifactId>
             <scope>test</scope>
         </dependency>

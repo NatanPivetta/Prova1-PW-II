@@ -50,7 +50,10 @@ If you want to learn more about building native executables, please consult http
 ## Related Guides
 
 - SmallRye OpenAPI ([guide](https://quarkus.io/guides/openapi-swaggerui)): Document your REST APIs with OpenAPI - comes with Swagger UI
+<<<<<<< HEAD
 - RESTEasy Classic ([guide](https://quarkus.io/guides/resteasy)): REST endpoint framework implementing Jakarta REST and more
+=======
+>>>>>>> 9a9607e2ee28bc0c1e93eba3d6988de1c91451b4
 
 ## Provided Code
 
